@@ -1,0 +1,3 @@
+intro
+I have learned that GitHub uses git at its core or as Distrubuted version control. I have also learned that Github is on the cloud while with git you make changes on respositories on your local computer.
+Github the changes made other deelpoers can access them if given access to. They can also collaborate and share their views and give feedback to make the work esier and faster.The features for GitHub include: Pull request, repository, issues, discussion, and actions.Developers used all that to make changes or contribute to files of other developers. Githun is also secure and safe to use.
